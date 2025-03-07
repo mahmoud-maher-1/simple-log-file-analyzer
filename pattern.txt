@@ -1,0 +1,14 @@
+couldn't check[^"]+
+Failed to parse[^"]+
+Failed to[^"]+
+Error looking up[^"]+
+cannot connect[^"]+
+unsupported[^"]+
+could not open[^"]+
+could not create transient scope[^"]+
+cannot refresh[^"]+
+fs was not properly unmounted and some data may be corrupt[^"]+
+failed to get edid[^"]+
+Failed to fetch[^"]+
+unable to [^"]+
+error[^"]+
